@@ -6,3 +6,5 @@ public class Candidate {
     private String partyAffiliation;
 
 }
+
+//politicalaffliation as an enum maybe??
