@@ -5,4 +5,5 @@ public class Voter {
     private boolean voterVerified;
 }
 
+
 //anonymous voter -- for purpose of programme assume good faith and no voter fraud
