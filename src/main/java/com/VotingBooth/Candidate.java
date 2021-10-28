@@ -14,6 +14,21 @@ public class Candidate {
         MILITANTELVIS
     }
 
+    public String getOfficeAddress() {
+        return officeAddress;
+    }
+
+    public void setOfficeAddress(String officeAddress) {
+        this.officeAddress = officeAddress;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }
 
 //politicalaffliation as an enum maybe??
