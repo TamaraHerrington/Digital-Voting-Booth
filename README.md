@@ -10,6 +10,9 @@ Constituency(Location, Limited number of voters)
 IMPORTANT - do NOT use actual candidate names and addresses! Generate random names!
 
 Ideas:
+  - Scanner method for user input for voter 
+      -Enter voter id / enter your vote 
+       -thowerrorexception if not a valid id
   - Constituency array - populate array with vote
     -create vote class (to include UUID for voter + their choice of candidate)
     
