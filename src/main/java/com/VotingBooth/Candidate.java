@@ -4,9 +4,16 @@ import javax.naming.Name;
 import java.sql.SQLOutput;
 
 public class Candidate {
+    //private final PartyAffiliation partyAffiliation;
     private String name;
     private String officeAddress;
+
+    public Candidate() {
+        this.name = name;
+        this.officeAddress = officeAddress;
+       // this.partyAffiliation = partyAffiliation;
     }
+
 
     public String getOfficeAddress() {
         return officeAddress;
