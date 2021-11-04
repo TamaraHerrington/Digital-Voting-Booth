@@ -6,15 +6,6 @@ import java.sql.SQLOutput;
 public class Candidate {
     private String name;
     private String officeAddress;
-    private enum partyAffiliation{
-        LABOUR,
-        CONSERVATIVE,
-        LIBDEM,
-        GREEN,
-        SNP,
-        PIRATE,
-        MONSTERRAVINGLOONEY,
-        MILITANTELVIS
     }
 
     public String getOfficeAddress() {
